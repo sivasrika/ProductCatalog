@@ -66,7 +66,8 @@ Implement the internal tool with functionality to manage:
 
 ### Deliverables
 - **Working Code** → [`src/`](./src/)  
-- **Entry Point** → [`src/Program.cs`](./src/services/Program.cs)  
+- **Entry Point** → [`src/InternalManagementTool ECommerce/Program.cs`](./src/InternalManagementTool%20ECommerce/Program.cs)  
+
 
 ###  Implementation Details
 - **Tech Stack**:  
