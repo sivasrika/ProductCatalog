@@ -1,7 +1,4 @@
 # ProductCatalog
-Internal Product Catalog Management Tool for eCommerce. Enables merchandisers and category managers to define product categories, custom attributes, and manage products with category-specific attributes. Designed for scalability and future category expansion.
-
-# ProductCatalog
 
 Internal **Product Catalog Management Tool** for an eCommerce platform.  
 This tool enables merchandisers and category managers to define product categories, add custom attributes, and manage products with category-specific attributes.  
