@@ -80,5 +80,4 @@ Implement the internal tool with functionality to manage:
   - `Program.cs` → Console-based UI  
 
 
-   git clone https://github.com/<your-username>/ProductCatalog.git
-   cd ProductCatalog
+  
