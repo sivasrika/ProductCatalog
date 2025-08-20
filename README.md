@@ -66,7 +66,7 @@ Implement the internal tool with functionality to manage:
 
 ### Deliverables
 - **Working Code** → [`src/`](./src/)  
-- **Entry Point** → [`src/Program.cs`](./src/Program.cs)  
+- **Entry Point** → [`src/Program.cs`](./src/services/Program.cs)  
 
 ###  Implementation Details
 - **Tech Stack**:  
