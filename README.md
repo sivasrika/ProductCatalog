@@ -71,7 +71,7 @@ Implement the internal tool with functionality to manage:
 
 ###  Implementation Details
 - **Tech Stack**:  
-  - C# (.NET)  
+  - C# (.NET8)  
   - SQL Server (Relational Database)  
 - **Structure**:  
   - `Entities/` → Domain classes  
